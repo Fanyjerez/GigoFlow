@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="strPreferencias">
+        <item>Opciones</item>
+        <item> Tiempo Completo</item>
+        <item> Medio Tiempo</item>
+        <item> Para Viajes largo periodo</item>
+        <item> Para Viajes cortos periodos</item>
+    </string-array>
+
+
+
+
+
+</resources>
